@@ -1,5 +1,5 @@
-# wikiboard-covid19
-A collection of deliverable and resource developed for WikiBoard project
+# Wikiboard-COVID19
+A collection of deliverables and resources developed for WikiBoard project
 
 # Guidelines & Resources
 - National Testing Guidelines for COVID-19
