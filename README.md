@@ -1,6 +1,22 @@
 # Wikiboard-COVID19
 A collection of deliverables and resources developed for WikiBoard project
 
+# COVID-19 Technical Terms and Glossary
+- COVID Technical terms/metadata
+- COVID glossary
+
+# List of Hospitals, Health and Research Institutions
+- Hospital in Nepal - Contact Details
+- Health Facilities Registry Nepal
+- District Wise Health Institution Information
+- Universities and Nepali Research Institutions
+
+# Article Translation
+- About COVID-19
+- About pandemic in Nepal
+- About pandemic globally
+- About Severe acute respiratory syndrome 
+
 # Guidelines & Resources
 - National Testing Guidelines for COVID-19
  - नोवेल कोरोना भाईरस रोग परिचय - स्वास्थ्यकर्मीहरुको लागी हाते पुस्तिका
