@@ -5,11 +5,11 @@ A collection of deliverables and resources developed for WikiBoard project
 - [COVID Technical terms/metadata]()
 - [COVID glossary]()
 
-# List of Hospitals, Health and Research Institutions
-- [Hospital in Nepal - Contact Details]()
-- [Health Facilities Registry Nepal]()
-- [District Wise Health Institution Information]()
-- [Universities and Nepali Research Institutions]()
+# List of Hospital, Health & Research Institutions
+- [Hospital in Nepal - Contact Details](https://github.com/okfnepal/wikiboard-covid19/blob/master/Data/Hospital%20in%20Nepal%20-%20Contact%20Details.csv)
+- [Health Facilities Registry Nepal](https://github.com/okfnepal/wikiboard-covid19/blob/master/Data/Health%20Facilities%20Registry%20Nepal.csv)
+- [District Wise Health Institution Information](https://github.com/okfnepal/wikiboard-covid19/blob/master/Data/Districtwise%20Health%20Institution%20Information.csv)
+- [Universities and Nepali Research Institutions](https://github.com/okfnepal/wikiboard-covid19/blob/master/Data/Universities%20and%20Nepali%20Research%20Institutions.csv)
 
 # Article Translation
 - [कोरोनाभाइरस रोग २०१९]()
