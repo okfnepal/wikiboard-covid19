@@ -2,8 +2,8 @@
 A collection of deliverables and resources developed for WikiBoard project
 
 # COVID-19 Technical Terms and Glossary
-- [COVID Technical terms/metadata]()
-- [COVID glossary]()
+- [COVID Technical terms/metadata](https://github.com/okfnepal/wikiboard-covid19/blob/master/COVID_Technical%20terms_metadata.csv)
+- [COVID glossary](https://github.com/okfnepal/wikiboard-covid19/blob/master/COVID_glossary.csv)
 
 # List of Hospital, Health & Research Institutions
 - [Hospital in Nepal - Contact Details](https://github.com/okfnepal/wikiboard-covid19/blob/master/Data/Hospital%20in%20Nepal%20-%20Contact%20Details.csv)
@@ -12,10 +12,10 @@ A collection of deliverables and resources developed for WikiBoard project
 - [Universities and Nepali Research Institutions](https://github.com/okfnepal/wikiboard-covid19/blob/master/Data/Universities%20and%20Nepali%20Research%20Institutions.csv)
 
 # Article Translation
-- [कोरोनाभाइरस रोग २०१९]()
-- [नेपालमा कोभिड-१९ महामारी]()
-- [कोभिड-१९ महामारी]()
-- [Aसिभर एक्युट रेस्पिरेटरी सिन्ड्रोम कोरोनाभाइरस-२ (सार्स-कोभ२)]() 
+- [कोरोनाभाइरस रोग २०१९](https://github.com/okfnepal/wikiboard-covid19/blob/master/Article/%E0%A4%95%E0%A5%8B%E0%A4%B0%E0%A5%8B%E0%A4%A8%E0%A4%BE%E0%A4%AD%E0%A4%BE%E0%A4%87%E0%A4%B0%E0%A4%B8%20%E0%A4%B0%E0%A5%8B%E0%A4%97%20%E0%A5%A8%E0%A5%A6%E0%A5%A7%E0%A5%AF.docx)
+- [नेपालमा कोभिड-१९ महामारी](https://github.com/okfnepal/wikiboard-covid19/blob/master/Article/%E0%A4%A8%E0%A5%87%E0%A4%AA%E0%A4%BE%E0%A4%B2%E0%A4%AE%E0%A4%BE%20%E0%A4%95%E0%A5%8B%E0%A4%AD%E0%A4%BF%E0%A4%A1-%E0%A5%A7%E0%A5%AF%20%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%80.docx)
+- [कोभिड-१९ महामारी](https://github.com/okfnepal/wikiboard-covid19/blob/master/Article/%E0%A4%95%E0%A5%8B%E0%A4%AD%E0%A4%BF%E0%A4%A1-%E0%A5%A7%E0%A5%AF%20%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%80.docx)
+- [Aसिभर एक्युट रेस्पिरेटरी सिन्ड्रोम कोरोनाभाइरस-२ (सार्स-कोभ२)](https://github.com/okfnepal/wikiboard-covid19/blob/master/Article/%E0%A4%B8%E0%A4%BF%E0%A4%AD%E0%A4%B0%20%E0%A4%8F%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A5%81%E0%A4%9F%20%E0%A4%B0%E0%A5%87%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%BF%E0%A4%B0%E0%A5%87%E0%A4%9F%E0%A4%B0%E0%A5%80%20%E0%A4%B8%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A1%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%AE%20%E0%A4%95%E0%A5%8B%E0%A4%B0%E0%A5%8B%E0%A4%A8%E0%A4%BE%E0%A4%AD%E0%A4%BE%E0%A4%87%E0%A4%B0%E0%A4%B8-%E0%A5%A8%20(%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B8-%E0%A4%95%E0%A5%8B%E0%A4%AD%E0%A5%A8).docx) 
 
 # Guidelines & Resources
 - [National Testing Guidelines for COVID-19](https://github.com/okfnepal/wikiboard-covid19/blob/master/Guidelines%20%26%20Resources/MoHP_Testing_Guideline_20-02-2077.pdf)
