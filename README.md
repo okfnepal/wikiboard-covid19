@@ -12,10 +12,10 @@ A collection of deliverables and resources developed for WikiBoard project
 - [Universities and Nepali Research Institutions]()
 
 # Article Translation
-- [About COVID-19]()
-- [About pandemic in Nepal]()
-- [About pandemic globally]()
-- [About Severe acute respiratory syndrome]() 
+- [कोरोनाभाइरस रोग २०१९]()
+- [नेपालमा कोभिड-१९ महामारी]()
+- [कोभिड-१९ महामारी]()
+- [Aसिभर एक्युट रेस्पिरेटरी सिन्ड्रोम कोरोनाभाइरस-२ (सार्स-कोभ२)]() 
 
 # Guidelines & Resources
 - [National Testing Guidelines for COVID-19](https://github.com/okfnepal/wikiboard-covid19/blob/master/Guidelines%20%26%20Resources/MoHP_Testing_Guideline_20-02-2077.pdf)
