@@ -37,6 +37,6 @@ A collection of deliverables and resources developed for WikiBoard project
 - [CoVID 19 SoP, Case Investigation and Contact Tracing Form](https://github.com/okfnepal/wikiboard-covid19/blob/master/Guidelines%20%26%20Resources/SOP%20COVID-19.pdf)
 - [Self-Quarantine Form - English](https://github.com/okfnepal/wikiboard-covid19/blob/master/Guidelines%20%26%20Resources/Self-Quarantine_form_english_version_10-03-2020.pdf)
 - [Self-Quarantine Form - Nepali](https://github.com/okfnepal/wikiboard-covid19/blob/master/Guidelines%20%26%20Resources/Self-Quarantine_form_Nepali_version_10-03-2020.pdf)
-- [Key actions to be taken for nCoV infection](https://github.com/okfnepal/wikiboard-covid19/blob/master/Guidelines%20%26%20Resources/document.pdf)
+- [Key actions to be taken for nCoV infection](https://github.com/okfnepal/wikiboard-covid19/blob/master/Guidelines%20%26%20Resources/Key%20actions%20to%20be%20taken%20for%20nCoV%20infection.pdf)
 - [Reduce your risk of Coronavirus Infection_IEC Material](https://github.com/okfnepal/wikiboard-covid19/blob/master/Guidelines%20%26%20Resources/Reduce%20your%20risk%20of%20Coronavirus%20Infection_IEC%20Material.pdf)
 - [Presentation on COVID-19](https://github.com/okfnepal/wikiboard-covid19/blob/master/Guidelines%20%26%20Resources/Presentation%20on%20COVID-19.pdf)
